@@ -1,0 +1,1 @@
+{"jobID":"02f9a472-7bd6-43c7-3c8d-8ca4243eaa08","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
