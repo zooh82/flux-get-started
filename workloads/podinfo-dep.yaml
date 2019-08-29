@@ -34,7 +34,7 @@ spec:
         - "1"
       containers:
       - name: podinfod
-        image: stefanprodan/podinfo:1.4.4
+        image: stefanprodan/podinfo:1.4.1
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 9898
